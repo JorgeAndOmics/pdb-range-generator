@@ -35,7 +35,7 @@ Contributions to this script are welcome! If you find a bug or have an idea for 
 
 ## License
 
-The PDB Range Generator script is licensed under the MIT License. See the `LICENSE` file for more information.
+The PDB Range Generator script is licensed under the MIT License.
 
 ## References
 
