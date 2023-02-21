@@ -33,7 +33,7 @@ Here are some examples of how to use the script:
 
 Contributions to this script are welcome! If you find a bug or have an idea for a new feature, please create an issue or submit a pull request.
 
-## MIT License
+## License
 
 The PDB Range Generator script is licensed under the MIT License. See the `LICENSE` file for more information.
 
