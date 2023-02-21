@@ -8,7 +8,7 @@ PDB Range Generator is a Python script that allows users to extract a range of r
 
 To use the script, run the following command:
 
-`python pdb-ranges-generator.py uniprot_code start_residue end_residue output_dir` 
+`python pdb-range-generator.py uniprot_code start_residue end_residue output_dir` 
 
 | Argument | Description |
 | -------- | ----------- |
@@ -25,8 +25,8 @@ Here are some examples of how to use the script:
 
 | Command | Description |
 | ------- | ----------- |
-| `python extract_range_from_pdb.py P68871 10 20 output/` | Extract the range of residues 10-20 from the PDB files for the protein with UniProt code P68871, and save the newly generated PDB files in the `output/` directory. |
-| `python extract_range_from_pdb.py Q9H3D4 50 100 results/` | Extract the range of residues 50-100 from the PDB files for the protein with UniProt code Q9H3D4, and save the newly generated PDB files in the `results/` directory. |
+| `python pdb-range-generator.py P68871 10 20 output/` | Extract the range of residues 10-20 from the PDB files for the protein with UniProt code P68871, and save the newly generated PDB files in the `output/` directory. |
+| `python pdb-range-generator.py Q9H3D4 50 100 results/` | Extract the range of residues 50-100 from the PDB files for the protein with UniProt code Q9H3D4, and save the newly generated PDB files in the `results/` directory. |
 
 
 ## Contribution
